@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  padding-top: 20px;
+  .left-scene {
+    width: 30%;
+  }
+  .right-scene {
+    width: 70%;
+  }
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.cars-new {
+  padding: 30px 50px;
+}
